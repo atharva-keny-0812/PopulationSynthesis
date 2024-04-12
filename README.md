@@ -42,6 +42,14 @@ To utilize the population synthesizer, follow these steps:
 
 - Atharva Keny
 
+## References
+
+1. Saadia, I., Mustafa, A., Teller, J., Farooq, B., & Cools, M. (2016). Hidden Markov Model-based population synthesis. https://www.researchgate.net/publication/301739619_Hidden_Markov_Model-based_population_synthesis
+2. Konduri, K. C., & Mondal, A. (Year). Stochastic multimodal network modeling: Hidden Markov model based synthetic population generation for use in microsimulation models of transit systems (Final Report). University of Connecticut. https://rosap.ntl.bts.gov/view/dot/64375
+3. Dataset of 200 Population: Representative Sample: https://drive.google.com/file/dBoJZNhVfAs9uxT1nwhSEaSZl3CKez1Pn/view
+
+*The Problem Statement was given as a part of a task by CISTUP IISC*
+
 ## License
 
 This project is licensed under the MIT License - see the (LICENSE.md) file for details.
