@@ -1,4 +1,4 @@
-# Population Synthesizer using Hidden Markov Models
+# Population Synthesizer using Hidden Markov Models and Gibbs Sampling
 
 Population synthesis is a vital component in various fields like urban planning, transportation modeling, and public health research, providing realistic demographic profiles for simulation and analysis. This project introduces the development of a population synthesizer leveraging Hidden Markov Models (HMMs), a statistical technique used for generating synthetic data from limited survey data.
 
